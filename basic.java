@@ -8,6 +8,8 @@ public class SumOfDigit{
              sum = sum + num % 10;
              num = num / 10;
          }
-        System.out.println("sum of all: " + sum );
+
+        int result = sum + sum ;
+        System.out.println("sum is into 2 : " + result );
     }
 }
