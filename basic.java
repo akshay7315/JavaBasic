@@ -11,6 +11,6 @@ public class SumOfDigit{
 
         int result = sum + sum ;
         System.out.println("sum is into 2 : " + result );
-        System.out.println("This is our final Answer" );
+        System.out.println("This is our final Answer" )
     }
 }
